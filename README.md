@@ -108,7 +108,6 @@ A web-based application designed to identify duplicate and similar records using
 
 🔗 [View Project Repository](https://github.com/ananyadinne09-source/CodeAlpha_DataRedundancyRemoval)
 
-🌐 [Live Application](https://codealpha-dataredundancyremoval-xcvy.onrender.com)
 
 ---
 
@@ -126,7 +125,6 @@ An interactive chatbot developed to provide predefined responses and AI-powered 
 
 🔗 [View Project Repository](https://github.com/ananyadinne09-source/CodeAlpha_NCCChatbot)
 
-🌐 [Live Application](https://codealpha-nccchatbot.onrender.com)
 
 ---
 
